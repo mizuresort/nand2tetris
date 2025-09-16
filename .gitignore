@@ -1,3 +1,5 @@
 projects/
 tools/
+submit/
+.DS_Store
 hardware.txt
